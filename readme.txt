@@ -1,0 +1,1 @@
+This enhancement is to create offline chatbot capability and use it in any service or esb integrations 
